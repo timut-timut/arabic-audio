@@ -8,12 +8,12 @@
   <h2>🎧 Арабские аудиофайлы</h2>
 
   <p>10.mp3</p>
-  <audio controls src="https://raw.githubusercontent.com/timut-timut/арабский-аудио/main/10.mp3"></audio>
+  <audio controls src="https://raw.githubusercontent.com/timut-timut/arabic-audio/main/10.mp3"></audio>
 
   <p>11.mp3</p>
-  <audio controls src="https://raw.githubusercontent.com/timut-timut/арабский-аудио/main/11.mp3"></audio>
+  <audio controls src="https://raw.githubusercontent.com/timut-timut/arabic-audio/main/11.mp3"></audio>
 
   <p>12.mp3</p>
-  <audio controls src="https://raw.githubusercontent.com/timut-timut/арабский-аудио/main/12.mp3"></audio>
+  <audio controls src="https://raw.githubusercontent.com/timut-timut/arabic-audio/main/12.mp3"></audio>
 </body>
 </html>
