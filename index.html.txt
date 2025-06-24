@@ -1,11 +1,19 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <title>Арабский Аудио</title>
+  <title>Арабский аудио</title>
 </head>
-<body>
-  <h2>🎧 Уроки арабского — прослушай по порядку</h2>
+<body style="font-family: sans-serif; padding: 40px;">
+  <h2>🎧 Арабские аудиофайлы</h2>
+
+  <p>10.mp3</p>
   <audio controls src="https://raw.githubusercontent.com/timut-timut/арабский-аудио/main/10.mp3"></audio>
+
+  <p>11.mp3</p>
+  <audio controls src="https://raw.githubusercontent.com/timut-timut/арабский-аудио/main/11.mp3"></audio>
+
+  <p>12.mp3</p>
+  <audio controls src="https://raw.githubusercontent.com/timut-timut/арабский-аудио/main/12.mp3"></audio>
 </body>
 </html>
